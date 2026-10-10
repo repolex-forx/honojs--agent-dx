@@ -1,0 +1,11 @@
+{
+  "org": "honojs",
+  "repo": "agent-dx",
+  "versions": [
+    {
+      "commit": "8e85e3c3e8a91b0de55882671e09aea0c4e4ec7c",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:38:00.243072+00:00"
+    }
+  ]
+}
